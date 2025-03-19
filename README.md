@@ -58,15 +58,4 @@ Once the Go MongoDB RestAPI is up and running, you can interact with it by sendi
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Coffeedragon96/golang-mongodb-restapi/blob/master/LICENSE) file for more details.
 
-## Contribution
-
-Contributions to the Go MongoDB RestAPI repository are always welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## Contact
-
-For any further information or inquiries, please contact:
-
-- Name: Shrey Raval
-- Email: ravalshrey@gmail.com
-
 Thank you for considering the Go MongoDB RestAPI repository. We believe this project demonstrates the power and versatility of Go in combination with MongoDB for building robust and scalable APIs, and we look forward to your feedback and contributions!
